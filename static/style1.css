@@ -1,0 +1,22 @@
+table{
+    width: 400px;
+    border: 3px solid white; 
+    border-collapse: collapse;
+    background-color: rgb(236, 130, 130);
+    margin: auto;
+}
+td{
+    text-align: center;
+    padding: 2px;
+    border: 2px solid rgb(238, 236, 236);
+    color: rgb(36, 7, 7);
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 800;
+}
+th{
+    color: rgb(80, 29, 6);
+    font-size: 30px;
+    border: 2px solid rgb(226, 223, 223);
+    font-family: 'Times New Roman', Times, serif;
+}
